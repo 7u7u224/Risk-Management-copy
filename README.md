@@ -15,6 +15,7 @@
 
 Toad is dedicated to facilitating model development process, especially for a scorecard. It provides intuitive functions of the entire process, from EDA, feature engineering and selection etc. to results validation and scorecard transformation. Its key functionality streamlines the most critical and time-consuming process such as feature selection and fine binning.
 
+欢迎呀～
 Toad 是专为工业界模型开发设计的Python工具包，特别针对评分卡的开发。Toad 的功能覆盖了建模全流程，从 EDA、特征工程、特征筛选 到 模型验证和评分卡转化。Toad 的主要功能极大简化了建模中最重要最费时的流程，即特征筛选和分箱。
 
 ## Install and Upgrade · 安装与升级
